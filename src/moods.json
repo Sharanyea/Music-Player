@@ -1,0 +1,16 @@
+{
+  "moods": [
+    {
+      "name": "Happy",
+      "playlistId": "spotify:playlist:37i9dQZF1DXdPec7aLTmlC"
+    },
+    {
+      "name": "Relaxed",
+      "playlistId": "spotify:playlist:37i9dQZF1DWX4sQuPzNeaS"
+    },
+    {
+      "name": "Energetic",
+      "playlistId": "spotify:playlist:37i9dQZF1DX0Tkc6ltcBfU"
+    }
+  ]
+}
